@@ -108,6 +108,8 @@ var ignore_androidmks []string = []string{
 	"external/google-breakpad/",
 	"external/googletest/",
 	"external/libaom/",
+	"external/libjxl/third_party/sjpeg",
+	"external/libjxl/third_party/sjpeg/examples",
 	"external/libusb/",
 	"external/libvpx/",
 	"external/libwebm/",
